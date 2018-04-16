@@ -1,5 +1,5 @@
 labels:
     - name: for-testing
       color: e4e669
-    - name: bad-issue :disappointed:
+    - name: "bad-issue :disappointed:"
       color: CCCCCC
